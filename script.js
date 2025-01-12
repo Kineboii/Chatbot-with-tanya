@@ -1,4 +1,4 @@
-const API_KEY = "https://api.davidcyriltech.my.id/ai/llama3?text=Hi"; // Replace with your OpenAI API key
+const API_KEY = "https://api.davidcyriltech.my.id/ai/chatbot?query=Hello"; // Replace with your OpenAI API key
 const API_URL = "https://api.openai.com/v1/chat/completions";
 
 const chatContent = document.getElementById("chat-content");
